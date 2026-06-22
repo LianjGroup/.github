@@ -4,12 +4,6 @@
 
 ### Designing metallic materials from the inside out.
 
-<p align="center">
-  <img src="../assets/higmam-vision.png" alt="HIGMAM vision: from simple gradient microstructures to hierarchical 3D gradient microstructures" width="850">
-</p>
-
-</div>
-
 ---
 
 ## About
@@ -29,6 +23,12 @@ and eventually:
 ```text
 target properties → microstructure design → process parameters
 ```
+
+<p align="center">
+  <img src="../assets/higmam-vision.png" alt="HIGMAM vision: from simple gradient microstructures to hierarchical 3D gradient microstructures" width="850">
+</p>
+
+</div>
 
 ---
 
