@@ -1,4 +1,4 @@
-<h1 align="center">HIGMAM ERC Project</h1>
+<h1 align="center">Hierarchical Gradient Metals by Additive Manufacturing (HIGMAM) ERC Project</h1>
 
 <p align="center">
   <strong>Breaking the strength–ductility trade-off through integrated computational and data-driven design of hierarchical gradient metals</strong>
