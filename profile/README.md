@@ -28,47 +28,32 @@ process → microstructure → properties
 
 ---
 
-## Research focus
+## Approach
 
-HIGMAM combines:
+HIGMAM combines experimental research, computational mechanics, and data-assisted analysis to study metallic materials across different length scales.
 
-- additive manufacturing of steels,
-- multiscale microstructure characterization,
-- mechanical testing under demanding loading conditions,
-- crystal plasticity and micromechanics,
-- damage and fracture modelling,
-- process simulation,
-- data-driven material design.
+The work brings together:
 
----
+- advanced material characterization,
+- mechanical testing,
+- finite-element modelling,
+- micromechanics and crystal plasticity,
+- damage and fracture analysis,
+- machine-learning-assisted interpretation and design.
 
-## Project logic
-
-<img src="assets/higmam-workflow.png" alt="HIGMAM workflow linking process, microstructure, properties, and performance" width="850">
-
-The project links four levels:
-
-| Level | Question |
-|---|---|
-| Process | How does LPBF thermal history shape the material? |
-| Microstructure | Which gradient features matter most? |
-| Properties | How do strength, ductility, damage, and fracture change? |
-| Design | How can better materials be found faster? |
+The public repositories in this organization provide selected datasets, scripts, and computational workflows that support open and reproducible research.
 
 ---
 
-## GitHub organization
+## Publications
 
-This organization hosts selected repositories related to the HIGMAM research program, including:
+Selected publications related to HIGMAM and the broader research activities of the group are listed below.
 
-- research codes,
-- simulation workflows,
-- data-processing tools,
-- microstructure and micromechanics scripts,
-- open datasets,
-- supporting and legacy project repositories.
-
-Each repository has its own scope and documentation.
+| Authors | Year | Title | Journal | Status |
+|---|---:|---|---|---|
+| Lian et al. | YYYY | Title to be added | Journal to be added | Published |
+| Author et al. | YYYY | Title to be added | Journal to be added | Preprint |
+| Author et al. | YYYY | Title to be added | Journal to be added | Submitted |
 
 ---
 
