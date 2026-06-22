@@ -4,7 +4,9 @@
 
 ### Designing metallic materials from the inside out.
 
-<img src="assets/higmam-vision.png" alt="HIGMAM vision: from simple gradient microstructures to hierarchical 3D gradient microstructures" width="850">
+<p align="center">
+  <img src="./assets/higmam-vision.png" alt="HIGMAM vision: from simple gradient microstructures to hierarchical 3D gradient microstructures" width="850">
+</p>
 
 </div>
 
