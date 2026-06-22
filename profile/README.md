@@ -82,9 +82,13 @@ Each repository has its own scope and documentation.
 
 ## Project team
 
-**Principal investigator:** [Prof. Junhe Lian](mailto:junhe.lian@ibf.rwth-aachen.de)
+**Principal investigator:** Prof. Junhe Lian  
+Email: [junhe.lian@ibf.rwth-aachen.de](mailto:junhe.lian@ibf.rwth-aachen.de)
 
 **Members:**
 
-- [Binh Xuan Nguyen](mailto:binh.nguyen@ibf.rwth-aachen.de) — Main GitHub maintainer
-- [Yanglang Yuan](mailto:yanglang.yuan@ibf.rwth-aachen.de) — Main GitHub maintainer
+- Binh Xuan Nguyen — Main GitHub maintainer  
+  Email: [binh.nguyen@ibf.rwth-aachen.de](mailto:binh.nguyen@ibf.rwth-aachen.de)
+
+- Yanglang Yuan — Main GitHub maintainer  
+  Email: [yanglang.yuan@ibf.rwth-aachen.de](mailto:yanglang.yuan@ibf.rwth-aachen.de)
