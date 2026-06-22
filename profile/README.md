@@ -1,7 +1,7 @@
 <h1 align="center">HIGMAM ERC Project</h1>
 
 <p align="center">
-  <strong>Breaking the strength–ductility trade-off through integrated experimental, computational, and machine-learning-assisted design of hierarchical gradient metals</strong>
+  <strong>Breaking the strength–ductility trade-off through integrated computational and data-driven design of hierarchical gradient metals</strong>
 </p>
 
 ---
