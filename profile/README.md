@@ -47,7 +47,7 @@ The public repositories in this organization provide selected datasets, scripts,
 
 ## Publications
 
-Selected publications related to HIGMAM and the broader research activities of the group are listed below.
+Publications related to HIGMAM project are listed below.
 
 | Authors | Year | Title | Journal | Status |
 |---|---:|---|---|---|
