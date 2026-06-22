@@ -80,6 +80,11 @@ Each repository has its own scope and documentation.
 
 ---
 
-## Contact
+## Project team
 
-For repository-specific questions, please contact the maintainer listed in the corresponding repository.
+**Principal investigator:** [Prof. Junhe Lian](mailto:junhe.lian@ibf.rwth-aachen.de)
+
+**Members:**
+
+- [Binh Xuan Nguyen](mailto:binh.nguyen@ibf.rwth-aachen.de) — Main GitHub maintainer
+- [Yanglang Yuan](mailto:yanglang.yuan@ibf.rwth-aachen.de) — Main GitHub maintainer
