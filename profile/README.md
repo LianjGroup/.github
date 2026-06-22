@@ -1,7 +1,7 @@
 <h1 align="center">HIGMAM ERC Project</h1>
 
 <p align="center">
-  <strong>Designing metallic materials from the inside out.</strong>
+  <strong>Breaking the strength–ductility trade-off through integrated experimental, computational, and machine-learning-assisted design of hierarchical gradient metals</strong>
 </p>
 
 ---
