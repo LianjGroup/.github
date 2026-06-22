@@ -1,10 +1,8 @@
-<div align="center">
+<h1 align="center">HIGMAM ERC Project</h1>
 
-# HIGMAM ERC Project
-
-### Designing metallic materials from the inside out.
-
-</div>
+<p align="center">
+  <strong>Designing metallic materials from the inside out.</strong>
+</p>
 
 ---
 
@@ -18,12 +16,6 @@ The goal is direct material design:
 
 ```text
 process → microstructure → properties
-```
-
-and eventually:
-
-```text
-target properties → microstructure design → process parameters
 ```
 
 <div align="center">
