@@ -52,10 +52,10 @@ Publications related to HIGMAM project are listed below.
 | Authors | Year | Title | Journal | Status |
 |---|---:|---|---|---|
 | Yuan et al. | 2026 | A multi-task and multiscale spatial-temporal-coupled machine learning framework for high-throughput and high-fidelity crystal plasticity modeling | International Journal of Plasticity | In preparation |
-| Nguyen et al. | 2026 | Strain gradient crystal plasticity modeling of indentation size effect to Hall-Petch strengthening for stainless steel AISI 439 | Acta Materialia | In preparation |
-| Liu et al. | 2025 | Title to be added | Journal to be add | Submitted |
-| Yang et al. | 2025 | Title to be added | Journal to be add | Submitted |
-| Gui et al. | 2025 | Title to be added | Journal to be add | Submitted |
+| Nguyen et al. | 2026 | Strain gradient crystal plasticity modeling of indentation size effect to Hall–Petch strengthening for stainless steel AISI 439 | Acta Materialia | In preparation |
+| Liu et al. | 2026 | Hierarchical and periodic gradient steels by additive manufacturing | Journal to be added | Submitted |
+| Yang et al. | 2026 | Towards sustainable hydrogen infrastructures: Additive manufacturing of metallic materials for enhanced resistance to hydrogen embrittlement | Materials Today Sustainability, 34, 101339 | Published |
+| Li et al. | 2026 | An evolving non-associated Hill–Barlat yield criterion for anisotropic hardening with closed-form analytical calibration and guaranteed convexity | International Journal of Plasticity, 204, 104762 | Published |
 ---
 
 ## Keywords
